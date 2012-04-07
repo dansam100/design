@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="resume_jondoe.xslt"?>
+<document>
+  <title>Samuel Martey Jr | Software Developer | smartey.jr@gmail.com</title>
+  
+  <profile>
+    <name></name>
+    <objective></objective>
+    <status></status>
+    <default-email></default-email>
+    <default-phone></default-phone>
+    <default-address></default-address>
+  </profile>
+  
+  <details>
+    <websites>
+      <website type="personal"></website>
+      <website type="business"></website>
+    </websites>
+    <addresses>
+      <address type="local"></address>
+      <address type="permanent"></address>
+    </addresses>
+    <phones>
+      <phone type="cell"></phone>
+      <phone type="work"></phone>
+      <phone type="home"></phone>
+    </phones>
+    <emails>
+      <email type="work"></email>
+      <email type="home"></email>
+    </emails>
+    <languages>
+      <language type="native"></language>
+      <language type="primary"></language>
+    </languages>
+    <activities>
+      <activity></activity>
+      <activity></activity>
+    </activities>
+    <qualifications>
+      <qualification summary="Heading"></qualification>
+    </qualifications>
+    <social-media>
+      <media type="twitter"></media>
+    </social-media>
+  </details>
+  
+  <education>
+    <degrees>
+      <degree start="" end="">
+        <description></description>
+        <location></location>
+        <projects>
+          <project name="ProjectX">
+            <description></description>
+          </project>
+        </projects>
+      </degree>
+    </degrees>
+  </education>
+
+  <skills>
+    <skill type="Technical">
+      <list type="Programming">
+        <asset></asset>
+      </list>
+    </skill>
+    <skill type="Soft">
+      <list type="Stuff">
+        <asset></asset>
+      </list>
+    </skill>
+  </skills>
+
+  <experiences>
+    <experience type="Work History">
+      <history start="" end="">
+        <company>
+          <name></name>
+          <details>
+            <location></location>
+          </details>
+        </company>
+        <position></position>
+        <department></department>
+        <summary></summary>
+        <achievements>
+          <achievement></achievement>
+        </achievements>
+      </history>
+    </experience>
+	
+    <experience type="Volunteer">
+      <history start="" end="">
+        <company>
+          <name></name>
+          <details>
+            <location></location>
+          </details>
+        </company>
+        <position></position>
+        <department></department>
+        <summary></summary>
+        <achievements>
+          <achievement></achievement>
+        </achievements>
+      </history>
+    </experience>
+  </experiences>
+  
+</document>
